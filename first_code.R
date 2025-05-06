@@ -18,3 +18,5 @@ plot(mato)
 # band 3: green
 
 plotRGB(mato, r=2, g=3, b=1) #ciò che vediamo blu sarà quindi vegetazione perchè la banda infrarosso vicino è montata sulla componente blu
+
+# Confrontiamo con un'immagine più recente (09/02/2006 del satellite aster https://commons.wikimedia.org/wiki/File:Matogrosso_ast_2006209_lrg.jpg)
